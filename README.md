@@ -3,7 +3,7 @@ Spark Jade Template Engine
 
 An implementation for Spark and Jade Template Engine
 
-  - Spark Java: www.sparkjava.com
+  - Spark Java: http://sparkjava.com
   - Jade4J: https://github.com/neuland/jade4j
   
 ### Version
